@@ -4,10 +4,6 @@ I'm a software developer from Bosnia and Herzegovina, passionate about open sour
 
 Visit my website at https://www.ensarsarajcic.com/
 
-If you like my projects, you can support me and enable me to focus more on open source software  
-
-[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/esensar/donate)
-
 <!--
 **esensar/esensar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
