@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a software developer from Bosnia and Herzegovina, passionate about open source software, development tools and game development.  
-
 Visit my website at https://www.ensarsarajcic.com/
+
+I avoid hosting projects on GitHub, so check out:
+- [Codeberg](https://codeberg.org/esensar/)
+- [sr.ht](https://sr.ht/~esensar/)
 
 <!--
 **esensar/esensar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
